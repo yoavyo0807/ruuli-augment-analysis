@@ -1,0 +1,3 @@
+"model","accuracy","c_index","baseline","n_rows"
+"CIT (in-sample)",0.746666666666667,0.730555555555556,0.6,150
+"CRF (out-of-bag)",0.76,0.751481481481482,0.6,150

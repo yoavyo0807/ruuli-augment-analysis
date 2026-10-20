@@ -1,0 +1,3 @@
+# Let git normalise line endings (Windows uses CRLF, git stores LF), so that files
+# do not show up as "modified" only because of invisible line-ending differences.
+* text=auto

@@ -1,0 +1,13 @@
+variable,Random Forest,XGBoost
+PN,0.1072,0.128
+VOC,0.0649,0.0639
+LOC,0.0402,0.0616
+Syntactic_Role,0.0531,0.0539
+Noun,-0.0036,0.0215
+POSS,0.0209,0.0153
+GEN,0.0206,0.0078
+INF,-0.0048,0.0033
+Negation_in_Sentence,0.0179,0.0018
+Definiteness,-0.0128,0.0004
+REL,-0.0058,-0.0019
+Animacy_in_Carrirer,-0.0158,-0.0202

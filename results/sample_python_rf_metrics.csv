@@ -1,0 +1,2 @@
+model,accuracy,c_index,baseline,n_rows,acc_min_5seeds,acc_max_5seeds,c_min_5seeds,c_max_5seeds
+RF scikit-learn (out-of-bag),0.78,0.7960185185185186,0.6,150,0.78,0.78,0.7949999999999999,0.7995370370370372

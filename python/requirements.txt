@@ -1,0 +1,6 @@
+# Versions the Python scripts were run with. Newer versions will probably work.
+numpy>=2.2
+pandas>=2.3
+scikit-learn>=1.7
+xgboost>=3.2
+matplotlib>=3.10

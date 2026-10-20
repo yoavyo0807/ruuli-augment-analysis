@@ -1,0 +1,24 @@
+# --- Private material: never belongs in this repository -----------------------
+# The thesis PDF and the full corpus are kept outside the repo (private_materials/).
+# These patterns are a safety net in case one is copied here by accident.
+*.pdf
+results/Corpus*
+
+# --- R -----------------------------------------------------------------------
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# --- Python (used from step 4) -----------------------------------------------
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# --- Editor / system / secrets -----------------------------------------------
+.vscode/
+.DS_Store
+Thumbs.db
+.env
