@@ -3,7 +3,7 @@
 Statistical analysis of the augment (initial vowel on nouns) in spoken Ruuli, a Bantu language of Uganda.
 This repository re-implements the quantitative part of my MA thesis in R and extends it in Python.
 
-> **Status: work in progress.** The R analysis, a Python Random Forest and a cross-validated XGBoost comparison all run end to end. A short write-up is still to come.
+> **Status: work in progress.** The R analysis, a Python Random Forest and a cross-validated XGBoost comparison all run end to end. A plain-language summary is in [`docs/analysis_summary.md`](docs/analysis_summary.md).
 
 ## Research question
 
@@ -57,7 +57,7 @@ python/requirements.txt   Python packages
 data/sample.csv           150-row demonstration sample
 data/README.md            source, columns, how the sample was drawn
 results/                  outputs of the sample runs (runs on private data are git-ignored)
-docs/                     planned
+docs/analysis_summary.md  plain-language summary of the analysis and its limits
 ```
 
 ## How to run
