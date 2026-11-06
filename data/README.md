@@ -57,5 +57,3 @@ Witzlack-Makarevich, A., Namyalo, S., Kiriggwajjo, A., Molochieva, Z., Atuhairwe
 | Role: adjunct | 8.7% | 6.7% |
 
 Share of rows with the augment, among proper names: 11% in the full data, 12% in the sample.
-
-**Terms of use.** The corpus terms of use have not yet been checked. This repository is private until they have been.
